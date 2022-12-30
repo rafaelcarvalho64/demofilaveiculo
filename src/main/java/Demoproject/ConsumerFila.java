@@ -64,6 +64,11 @@ public class ConsumerFila {
         
         myList.add(par);
         
+        System.out.println("--------------------------------------------");
+        System.out.println("--------------------------------------------");
+        System.out.println("--------------------------------------------");
+        System.out.println("--------------------------------------------");
+        System.out.println("--------------------------------------------");
       	System.out.println("Lista de Veículos:");
       	for (Veiculo par1 : myList) {
       		System.out.println("Nome do Cliente = " + par1.getNomeCliente());
@@ -72,5 +77,10 @@ public class ConsumerFila {
             System.out.println("Valor = " + par1.getValorVenda());
             System.out.println("Data = " + par1.getDataPublicacao());
 		}
+      	System.out.println("--------------------------------------------");
+      	System.out.println("--------------------------------------------");
+      	System.out.println("--------------------------------------------");
+      	System.out.println("--------------------------------------------");
+      	System.out.println("--------------------------------------------");
     }
 }
