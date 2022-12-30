@@ -21,4 +21,4 @@ Utilizando a devida IDE:
 -run ProducerFila.java para enviar uma msg pra fila.
 -run ConsumerFila.java para consumir uma msg da fila.
 
-Todas as mensagens consumidas serão armazenadas em DBH2 e sempre que uma nova mensagem for consumida, a lista de todas as mensagens anteriores será mostrada juntamente com a atual mensagem consumida.
+Todas as mensagens consumidas serão armazenadas e sempre que uma nova mensagem for consumida, a lista de todas as mensagens anteriores será mostrada juntamente com a atual mensagem consumida.
