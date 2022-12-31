@@ -22,9 +22,9 @@ Utilizando a devida IDE:
 
 1a )
 
--run ProducerFila.java para enviar uma msg pra fila.
+- run ProducerFila.java para enviar uma msg pra fila.
 
--run ConsumerFila.java para consumir uma msg da fila.
+- run ConsumerFila.java para consumir uma msg da fila.
 
 1b )
 
