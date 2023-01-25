@@ -1,18 +1,6 @@
 # Sistema de filas para publicação de anúncio de veículos
 
-Instituto Federal do pará
-
-Análise e Desenvolvimento de Sistemas
-
-Professor CLAUDIO ROBERTO DE LIMA MARTINS
-
-Discentes:
-
-RAFAEL AUGUSTO BARBOSA DE CARVALHO - 20200795605
-
-ISRAEL PANTOJA PEREIRA DE CARVALHO - 20200795035
-
-Instruções da atividade:
+Instruções:
 
 1 )
 
